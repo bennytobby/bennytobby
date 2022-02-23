@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bennytobby
-- 👀 I’m interested in videogames.
-- 🌱 I’m currently learning python, in more depth.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in videogames, game development, and object oriented programming.
+- 🌱 I know the basics of HTML. I’ve learned Python. I am currently learning OOP in Java at the University of Maryland (UMD).
+- I'm an undergraduate student majoring in Computer Science at UMD.
 
 <!---
 bennytobby/bennytobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
