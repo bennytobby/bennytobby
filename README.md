@@ -1,5 +1,5 @@
-- Hi, I’m Paramraj Singh Machre, a student at the University of Maryland.
-- I'm studying Computer Science with a minor in History
+- Hi, I’m Paramraj Singh Machre, a recent grad from the University of Maryland.
+- I studyied Computer Science with a minor in History
 - I’m interested in game development, web development, databases, object oriented programming and app development.
 - I know Python, Java, SQL, C, HTML, JavaScript, MIPS, Ruby, OCaml, Rust amongst others.
 - Thank you for getting to know me!
