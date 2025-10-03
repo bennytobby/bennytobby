@@ -34,4 +34,4 @@ Ex-Snowflake Intern | Full-Stack & Cloud Developer | Data & AI/ML Enthusiast
 ---
 
 ## Connect With Me  
-[LinkedIn](https://linkedin.com/in/paramrajsinghmachre)
+[LinkedIn](https://linkedin.com/in/pmachre)
