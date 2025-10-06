@@ -1,6 +1,6 @@
 # Hi, I'm Paramraj
 
-CS @ University of Maryland (Graduating May 2025)  
+CS @ University of Maryland (Graduated in May 2025)  
 Ex-Snowflake Intern | Full-Stack & Cloud Developer | Data & AI/ML Enthusiast  
 
 ---
