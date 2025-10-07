@@ -16,7 +16,7 @@ Ex-Snowflake Intern | Full-Stack & Cloud Developer | Data & AI/ML Enthusiast
 - [EDMS](https://github.com/bennytobby/edms) – Secure document management system (Node.js, MongoDB, AWS S3)  
 - [TimeCard](https://github.com/bennytobby/timecard) – Python time logging & visualization tool  
 - [Recipe App](https://github.com/dcardone/Recipe-App) – Kotlin + Firebase recipe manager
-- [To-Do List](https://github.com/wadoodbutt/todolist) - JavaScript + EJS + CSS + API integrations
+- [To-Do List](https://github.com/wadoodbutt/todolist) – JavaScript + EJS + CSS + API integrations
 
 ---
 
