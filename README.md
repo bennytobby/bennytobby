@@ -1,38 +1,67 @@
-# Hi, I'm Paramraj
-
-CS @ University of Maryland (Graduated in May 2025)  
-Ex-Snowflake Intern | Full-Stack & Cloud Developer | Data & AI/ML Enthusiast  
-
----
-
-## What I Do  
-- Build **full-stack & cloud apps** (Node.js, MongoDB, AWS, Kotlin, Firebase)  
-- Develop **data-driven tools** with Python, SQL, and Streamlit  
-- Explore **AI/ML** for real-world impact (NLP, automation, recommendation systems)  
+<!-- Hero -->
+<div align="center">
+  <img src="<./avatar.png" alt="Paramraj avatar" width="140" />
+  <h1>Paramraj Singh Machre</h1>
+  <p><b>Software Engineer</b> — Code • Create • Conquer</p>
+  <a href="https://linkedin.com/in/pmachre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paramraj-blue?logo=linkedin"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bennytobby&style=flat&label=Visitors" />
+</div>
 
 ---
 
-## Featured Projects  
-- [Terp Notes](https://github.com/bennytobby/terp-notes) – Note sharing application for UMD students
-- [EDMS](https://github.com/bennytobby/edms) – Secure document management system (Node.js, MongoDB, AWS S3)  
-- [TimeCard](https://github.com/bennytobby/timecard) – Python time logging & visualization tool  
-- [Recipe App](https://github.com/dcardone/Recipe-App) – Kotlin + Firebase recipe manager
-- [To-Do List](https://github.com/wadoodbutt/todolist) – JavaScript + EJS + CSS + API integrations
+### About me
+- CS @ UMD (’25) • Ex-Snowflake IT Finance  
+- I build data-driven, production-ready software across **backend, cloud, and AI**.  
+- Off the keyboard: I lead climbs and communities 🧗‍♂️
 
 ---
 
-## Internship Impact @ Snowflake  
-- Reduced test cycle by **87%** with a JUnit regression framework  
-- Optimized finance process runtime from **4 hrs → 15 min**  
-- Built Streamlit + Snowpark UI → cut query debugging time by **45%**  
+### Highlights (real impact)
+- **87%** faster regression testing with a custom **JUnit** framework  
+- Finance batch runtime **4h → 15m** via profiling + algorithmic refactors  
+- **45%** faster engineer debugging with a **Streamlit + Snowpark** UI
 
 ---
 
-## About Me  
-- President, UMD Climbing Club (75+ members, outdoor trips, competitions)  
-- CS major, History minor → passionate about tech + humanities  
+### Building now — *Terp Notes*
+Agentic note-sharing for students: **semantic search, embeddings, vector DB, tool-use agents**, and a clean UX.  
+*Goal:* the easiest way to find & share the right note at the right moment.
 
 ---
 
-## Connect With Me  
-[LinkedIn](https://linkedin.com/in/pmachre)
+### Toolbox
+**Languages:** Python, Java, Kotlin, TypeScript/JS, SQL  
+**Backend:** Node.js/Express, Spring basics, REST, Webhooks  
+**Data/AI:** Pandas, Streamlit, Snowpark, RAG, vector search, embeddings  
+**Cloud/DevOps:** AWS (S3, Lambda), CI/CD, Docker, GitHub Actions  
+**Mobile:** Android (Kotlin + Firebase)
+
+---
+
+### How I work
+- Write **tests first**, ship with **CI/CD**, instrument with **logs/metrics**  
+- Prefer **clear APIs**, **docs as code**, and **performance budgets**  
+- Bias for **small, iterative releases** with measurable outcomes
+
+---
+
+### Featured Projects
+- **[Terp Notes](https://github.com/bennytobby/terp-notes)** – Agentic note sharing with semantic search & RAG  
+- **[EDMS](https://github.com/bennytobby/edms)** – Secure document management (**Node.js, MongoDB, AWS S3**)  
+- **[TimeCard](https://github.com/bennytobby/timecard)** – CLI time logging + analytics (**Python/Matplotlib**)  
+- **[Recipe App](https://github.com/dcardone/Recipe-App)** – Android + Firebase recipe manager  
+- **[To-Do List](https://github.com/wadoodbutt/todolist)** – JS/EJS app with external API integrations
+
+---
+
+### GitHub at a glance
+<p>
+  <img height="150" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bennytobby&show_icons=true&hide=issues,contribs&include_all_commits=true" />
+  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennytobby&layout=compact&hide=css,html" />
+</p>
+
+---
+
+### Let’s connect
+- DM me on **[LinkedIn](https://linkedin.com/in/pmachre)** 
+- Or open an issue on any repo—happy to collaborate on student tools, data apps, or agentic AI.
