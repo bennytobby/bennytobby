@@ -56,8 +56,12 @@ Agentic note-sharing for students: **semantic search, embeddings, vector DB, too
 
 ### GitHub at a glance
 <p>
-  <img height="150" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bennytobby&show_icons=true&hide=issues,contribs&include_all_commits=true" />
-  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennytobby&layout=compact&hide=css,html" />
+  <img height="150"
+       alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=bennytobby&show_icons=true&count_private=true&hide=issues,contribs&cache_seconds=7200&v=1" />
+  <img height="150"
+       alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennytobby&layout=compact&langs_count=8&hide=css,html&size_weight=0.7&count_weight=0.3" />
 </p>
 
 ---
