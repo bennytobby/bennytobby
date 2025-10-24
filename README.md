@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="<./avatar.png" alt="Paramraj avatar" width="140" />
+  <img src="./avatar.png" alt="Paramraj avatar" width="140" />
   <h1>Paramraj Singh Machre</h1>
   <p><b>Software Engineer</b> — Code • Create • Conquer</p>
   <a href="https://linkedin.com/in/pmachre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paramraj-blue?logo=linkedin"></a>
