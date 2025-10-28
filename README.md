@@ -67,5 +67,7 @@ Agentic note-sharing for students: **semantic search, embeddings, vector DB, too
 ---
 
 ### Let’s connect
-- DM me on **[LinkedIn](https://linkedin.com/in/pmachre)** 
+- DM me on **[LinkedIn](https://linkedin.com/in/pmachre)**
+- Follow me on **[X (formerly Twitter)](https://x.com/paramraj15)**
+- Email me at **(paramraj15@gmail.com)**
 - Or open an issue on any repo—happy to collaborate on student tools, data apps, or agentic AI.
