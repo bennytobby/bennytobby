@@ -3,9 +3,22 @@
   <img src="./avatar.png" alt="Paramraj avatar" width="140" />
   <h1>Paramraj Singh Machre</h1>
   <p><b>Software Engineer</b> — Code • Create • Conquer</p>
-  <a href="https://linkedin.com/in/pmachre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paramraj-blue?logo=linkedin"></a>
+
+  <a href="https://linkedin.com/in/pmachre">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paramraj-blue?logo=linkedin">
+  </a>
+  <a href="https://x.com/paramraj15">
+    <img alt="X" src="https://img.shields.io/badge/%40paramraj15-000000?logo=x">
+  </a>
+  <a href="mailto:pmachre@terpmail.umd.edu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pmachre%40terpmail.umd.edu-red?logo=gmail">
+  </a>
+
+  <br />
+
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bennytobby&style=flat&label=Visitors" />
 </div>
+
 
 ---
 
