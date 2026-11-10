@@ -1,85 +1,40 @@
-<!-- Hero -->
-<div align="center">
-  <img src="./avatar.png" alt="Paramraj avatar" width="140" />
-  <h1>Paramraj Singh Machre</h1>
-  <p><b>Software Engineer</b> — Code • Create • Conquer</p>
+<!--
+  Profile README. Sections mirror the future personal site (intro, Now, Shipped, Stack, Elsewhere),
+  so the site can reuse this copy. Public contact is pmachre@terpmail.umd.edu only.
+-->
 
-  <a href="https://linkedin.com/in/pmachre">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paramraj-blue?logo=linkedin">
-  </a>
-  <a href="https://x.com/paramraj15">
-    <img alt="X" src="https://img.shields.io/badge/%40paramraj15-000000?logo=x">
-  </a>
-  <a href="mailto:pmachre@terpmail.umd.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-pmachre%40terpmail.umd.edu-red?logo=gmail">
-  </a>
+<img src="./avatar.png" alt="Param" width="96" align="right" />
 
-  <br />
+### Hi, I'm Param
 
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bennytobby&style=flat&label=Visitors" />
-</div>
+Software engineer in the San Francisco Bay Area. I build full-stack products end to end, and the AI agents that help me ship them faster.
 
+UMD Computer Science '25, minor in History.
 
----
+#### Now
 
-### About me
-- CS @ UMD (’25) • Ex-Snowflake IT Finance  
-- I build data-driven, production-ready software across **backend, cloud, and AI**.  
-- Off the keyboard: I lead climbs and communities 🧗‍♂️
+- **Software Engineer at Snowflake.** Integrations, internal web apps, and AI agents and skills.
+- **[Terp Notes](https://terp-notes.org).** A free note-sharing site for UMD students that I run in my spare time: search by course and professor, virus-scanned uploads, an AI study buddy (rolling out) that answers from course notes, and an MCP server so students can use their notes in ChatGPT and Claude.
+- **Nova.** My personal agent workspace. I write a task from my phone, and Claude Code or Codex works on it in its own git worktree, opens a PR, gets reviewed by the other agent, then merges and deploys. Runs 24/7 on a Mac mini over Tailscale. Private for now.
 
----
+#### Shipped
 
-### Highlights (real impact)
-- **87%** faster regression testing with a custom **JUnit** framework  
-- Finance batch runtime **4h → 15m** via profiling + algorithmic refactors  
-- **45%** faster engineer debugging with a **Streamlit + Snowpark** UI
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Terp Notes](https://github.com/bennytobby/terp-notes) · [live](https://terp-notes.org) | Notes, study guides and exam prep for UMD courses | Node.js, Express, MongoDB, Redis, S3, OpenAI-compatible LLMs, MCP, Playwright, Vercel |
+| [EDMS](https://github.com/bennytobby/edms) · [live](https://edms-blue.vercel.app) | Document management with roles, S3 uploads, search and previews | Node.js, Express, MongoDB, S3, JWT, Swagger, Jest |
+| [TimeCard](https://github.com/bennytobby/TimeCard) | CLI time tracker with trend charts | Python, Matplotlib |
 
----
+#### Stack
 
-### Building now — *Terp Notes*
-Agentic note-sharing for students: **semantic search, embeddings, vector DB, tool-use agents**, and a clean UX.  
-*Goal:* the easiest way to find & share the right note at the right moment.
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL, Kotlin
+- **Web:** Next.js, React, Node.js, Express, Tailwind
+- **Data:** PostgreSQL, MongoDB, Redis, Snowflake
+- **AI:** LLM agents and tool use, MCP servers, RAG, Claude Code and Codex workflows
+- **Ops:** AWS, Vercel, GitHub Actions, Docker, Playwright
 
----
+#### Elsewhere
 
-### Toolbox
-**Languages:** Python, Java, Kotlin, TypeScript/JS, SQL  
-**Backend:** Node.js/Express, Spring basics, REST, Webhooks  
-**Data/AI:** Pandas, Streamlit, Snowpark, RAG, vector search, embeddings  
-**Cloud/DevOps:** AWS (S3, Lambda), CI/CD, Docker, GitHub Actions  
-**Mobile:** Android (Kotlin + Firebase)
+[LinkedIn](https://www.linkedin.com/in/pmachre/) · [X](https://x.com/paramraj15) · [pmachre@terpmail.umd.edu](mailto:pmachre@terpmail.umd.edu)
 
----
-
-### How I work
-- Write **tests first**, ship with **CI/CD**, instrument with **logs/metrics**  
-- Prefer **clear APIs**, **docs as code**, and **performance budgets**  
-- Bias for **small, iterative releases** with measurable outcomes
-
----
-
-### Featured Projects
-- **[Terp Notes](https://github.com/bennytobby/terp-notes)** – Agentic note sharing with semantic search & RAG  
-- **[EDMS](https://github.com/bennytobby/edms)** – Secure document management (**Node.js, MongoDB, AWS S3**)  
-- **[TimeCard](https://github.com/bennytobby/timecard)** – CLI time logging + analytics (**Python/Matplotlib**)  
-- **[Recipe App](https://github.com/dcardone/Recipe-App)** – Android + Firebase recipe manager  
-- **[To-Do List](https://github.com/wadoodbutt/todolist)** – JS/EJS app with external API integrations
-
----
-
-### GitHub at a glance
-<p>
-  <img height="150"
-       alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=bennytobby&show_icons=true&count_private=true&hide=issues,contribs&cache_seconds=7200&v=1" />
-  <img height="150"
-       alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennytobby&layout=compact&langs_count=8&hide=css,html&size_weight=0.7&count_weight=0.3" />
-</p>
-
----
-
-### Let’s connect
-- DM me on **[LinkedIn](https://linkedin.com/in/pmachre)**
-- Follow me on **[X (formerly Twitter)](https://x.com/paramraj15)**
-- Email me at **pmachre@terpmail.umd.edu** Or open an issue on any repo—happy to collaborate on student tools, data apps, or agentic AI.
+Off the keyboard: climbing (I led Maryland Club Climbing) and Bay Area hikes.
